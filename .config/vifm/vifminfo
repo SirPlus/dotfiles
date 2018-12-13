@@ -1,0 +1,74 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/travis/
+	..
+1541720409
+'b
+	/home/travis/bin/
+	..
+1541720409
+'h
+	/home/travis/
+	..
+1541720409
+'z
+	/home/travis/.config/vifm
+	..
+1541720409
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/travis
+	polybar.sh
+18
+d/home/travis/Downloads
+	7qmnv9l98pdz.gif
+1
+d/home/travis/Dropbox
+	..
+0
+d
+
+# Right window history (oldest to newest):
+D/home/travis
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:help
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0

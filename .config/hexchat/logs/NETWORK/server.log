@@ -1,0 +1,29 @@
+**** BEGIN LOGGING AT Mon Dec  3 02:51:30 2018
+
+Dec 03 02:51:30 Perl interface loaded
+Dec 03 02:51:30 Checksum plugin loaded
+Dec 03 02:51:30 Python interface loaded
+Dec 03 02:51:30 FiSHLiM plugin loaded
+Dec 03 02:51:30 Sysinfo plugin loaded
+Dec 03 02:51:30 Lua version 1.3/5.3 loaded.
+**** BEGIN LOGGING AT Mon Dec  3 02:51:39 2018
+
+Dec 03 02:51:39 Perl interface loaded
+Dec 03 02:51:39 Checksum plugin loaded
+Dec 03 02:51:39 Python interface loaded
+Dec 03 02:51:39 FiSHLiM plugin loaded
+Dec 03 02:51:39 Sysinfo plugin loaded
+Dec 03 02:51:39 Lua version 1.3/5.3 loaded.
+Dec 03 02:51:39 *	Looking up chat.freenode.net
+Dec 03 02:51:39 *	Connecting to chat.freenode.net (185.30.166.37:6667)
+Dec 03 02:51:39 *	Connected. Now logging in.
+Dec 03 02:51:39 *	*** Looking up your hostname...
+Dec 03 02:51:40 *	*** Checking Ident
+Dec 03 02:51:40 *	*** Found your hostname
+Dec 03 02:51:45 *	*** No Ident response
+Dec 03 02:51:46 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Dec 03 02:51:46 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix 
+Dec 03 02:51:46 *	manjaroi3 is already in use. Retrying with manjaroi3_...
+Dec 03 02:51:46 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Mon Dec  3 02:51:46 2018
+

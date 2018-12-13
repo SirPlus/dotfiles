@@ -1,0 +1,4 @@
+T 1543830712 19*	Now talking on 22#manjaro-talk
+T 1543830712 22*	Topic for 22#manjaro-talk is: #c_lang_cn
+T 1543830712 22*	Topic for 22#manjaro-talk set by 26daniel-dev!~daniel@118.144.139.212 (24Sat Dec  1 04:59:49 2018)
+T 1543831152 FiSHLiM plugin unloaded

@@ -1,0 +1,53 @@
+19:49:58 : CANTO-DAEMON -> canto-daemon 0.9.7 
+19:49:58 : CANTO-DAEMON -> conf_dir = /home/travis/.config/canto
+19:49:58 : CONFIG -> Read /home/travis/.config/canto/conf
+19:49:58 : CONFIG -> Validated: {'defaults': {'global_transform': 'filter_read', 'keep_time': 86400, 'keep_unread': False, 'rate': 10}, 'feeds': [{'name': 'Canto', 'url': 'http://codezen.org/canto-ng/feed/'}, {'name': 'Slashdot', 'url': 'http://rss.slashdot.org/slashdot/Slashdot'}, {'name': 'Reddit', 'url': 'http://reddit.com/.rss'}]}
+19:49:58 : CANTO-DAEMON -> Listening on unix socket: /home/travis/.config/canto/.canto_socket
+19:49:58 : SERVER -> conn (<socket.socket fd=5, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:49:58 : SERVER -> conn (<socket.socket fd=7, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:49:58 : SERVER -> conn (<socket.socket fd=8, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:49:59 : SERVER -> conn (<socket.socket fd=6, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:50:30 : SERVER -> Connection ended.
+19:50:30 : SERVER -> Connection ended.
+19:50:30 : SERVER -> Connection ended.
+19:50:30 : SERVER -> Connection ended.
+19:50:32 : SERVER -> conn (<socket.socket fd=5, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:50:32 : SERVER -> conn (<socket.socket fd=6, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:50:32 : SERVER -> conn (<socket.socket fd=7, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:50:32 : SERVER -> conn (<socket.socket fd=8, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:51:08 : SERVER -> Connection ended.
+19:51:08 : SERVER -> Connection ended.
+19:51:08 : SERVER -> Connection ended.
+19:51:08 : SERVER -> Connection ended.
+19:51:17 : SERVER -> conn (<socket.socket fd=5, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:51:17 : SERVER -> conn (<socket.socket fd=6, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:51:17 : SERVER -> conn (<socket.socket fd=7, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:51:17 : SERVER -> conn (<socket.socket fd=8, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:52:02 : SERVER -> Connection ended.
+19:52:02 : SERVER -> Connection ended.
+19:52:02 : SERVER -> Connection ended.
+19:52:02 : SERVER -> Connection ended.
+19:52:05 : SERVER -> conn (<socket.socket fd=5, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:52:05 : SERVER -> conn (<socket.socket fd=6, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:52:05 : SERVER -> conn (<socket.socket fd=7, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:52:05 : SERVER -> conn (<socket.socket fd=8, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:53:13 : SERVER -> Connection ended.
+19:53:13 : SERVER -> Connection ended.
+19:53:13 : SERVER -> Connection ended.
+19:53:13 : SERVER -> Connection ended.
+19:53:16 : SERVER -> conn (<socket.socket fd=5, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:53:16 : SERVER -> conn (<socket.socket fd=6, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:53:16 : SERVER -> conn (<socket.socket fd=7, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:53:16 : SERVER -> conn (<socket.socket fd=8, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:53:34 : SERVER -> Connection ended.
+19:53:34 : SERVER -> Connection ended.
+19:53:34 : SERVER -> Connection ended.
+19:53:34 : SERVER -> Connection ended.
+19:57:17 : SERVER -> conn (<socket.socket fd=5, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:57:17 : SERVER -> conn (<socket.socket fd=6, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:57:17 : SERVER -> conn (<socket.socket fd=7, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+19:57:17 : SERVER -> conn (<socket.socket fd=8, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/travis/.config/canto/.canto_socket>
+21:50:05 : SERVER -> Connection ended.
+21:50:05 : SERVER -> Connection ended.
+21:50:05 : SERVER -> Connection ended.
+21:50:05 : SERVER -> Connection ended.

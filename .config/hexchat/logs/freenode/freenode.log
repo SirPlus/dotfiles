@@ -1,0 +1,96 @@
+**** BEGIN LOGGING AT Mon Dec  3 02:51:30 2018
+
+Dec 03 02:51:30 *	*** Looking up your hostname...
+Dec 03 02:51:31 *	*** Checking Ident
+Dec 03 02:51:31 *	*** Found your hostname
+**** BEGIN LOGGING AT Mon Dec  3 02:51:46 2018
+
+Dec 03 02:51:46 *	Welcome to the freenode Internet Relay Chat Network manjaroi3_
+Dec 03 02:51:46 *	Your host is orwell.freenode.net[185.30.166.37/6667], running version ircd-seven-1.1.7
+Dec 03 02:51:46 *	This server was created Sun Sep 16 2018 at 18:22:50 UTC
+Dec 03 02:51:46 *	orwell.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Dec 03 02:51:46 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Dec 03 02:51:46 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+Dec 03 02:51:46 *	SAFELIST ELIST=CTU ETRACE WHOX :are supported by this server
+Dec 03 02:51:46 *	There are 113 users and 86693 invisible on 33 servers
+Dec 03 02:51:46 *	33 :IRC Operators online
+Dec 03 02:51:46 *	32 :unknown connection(s)
+Dec 03 02:51:46 *	49305 :channels formed
+Dec 03 02:51:46 *	I have 4416 clients and 1 servers
+Dec 03 02:51:46 *	4416 4564 :Current local users 4416, max 4564
+Dec 03 02:51:46 *	86806 94264 :Current global users 86806, max 94264
+Dec 03 02:51:46 *	Highest connection count: 4565 (4564 clients) (183105 connections received)
+Dec 03 02:51:46 *	- orwell.freenode.net Message of the Day - 
+Dec 03 02:51:46 *	- Welcome to orwell.freenode.net in Amsterdam, NL.
+Dec 03 02:51:46 *	- Thanks to http://www.hyperfilter.com/ for sponsoring
+Dec 03 02:51:46 *	- this server!
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- ORWELL, GEORGE [1903 - 1950] Born in India, his mother
+Dec 03 02:51:46 *	- moved him to England when he was one year old, and it
+Dec 03 02:51:46 *	- was in England where he was educated and spent most of
+Dec 03 02:51:46 *	- his life.  Orwell is perhaps best known for his novels
+Dec 03 02:51:46 *	- Nineteen Eighty-Four and Animal Farm.
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- Welcome to freenode - supporting the free and open source
+Dec 03 02:51:46 *	- software communities since 1998.
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- By connecting to freenode you indicate that you have read and
+Dec 03 02:51:46 *	- accept our policies and guidelines as set out on https://freenode.net
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- In the event that you observe behaviour that contravenes our policies,
+Dec 03 02:51:46 *	- please notify a volunteer staff member via private message, or send us an
+Dec 03 02:51:46 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Dec 03 02:51:46 *	- situation within a reasonable period of time, and we may request further
+Dec 03 02:51:46 *	- information or, as appropriate, involve other parties such as channel operators 
+Dec 03 02:51:46 *	- Group Contacts representing an on-topic group.
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- freenode runs an open proxy scanner.
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- If you are looking for assistance, you may be able to find a list of 
+Dec 03 02:51:46 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Dec 03 02:51:46 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Dec 03 02:51:46 *	- any of us at any time. Please note that freenode predominantly provides 
+Dec 03 02:51:46 *	- assistance via private message, and while we have a network channel the 
+Dec 03 02:51:46 *	- primary venue for support requests is via private message to a member 
+Dec 03 02:51:46 *	- of the volunteer staff team.
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- If you are looking for assistance, you will be able to find a list of
+Dec 03 02:51:46 *	- volunteer staff using the '/who freenode/staff/*' command, and you may
+Dec 03 02:51:46 *	- message any of us at any time. Please note that freenode predominantly
+Dec 03 02:51:46 *	- provides assistance via private message, and while we have a network
+Dec 03 02:51:46 *	- channel the primary venue for support requests is via private message to
+Dec 03 02:51:46 *	- a member of the volunteer staff team.
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- From time to time, volunteer staff may send server-wide notices relating to
+Dec 03 02:51:46 *	- the project, or the communities that we host. The majority of such notices
+Dec 03 02:51:46 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Dec 03 02:51:46 *	- do not miss them. Important messages relating to the freenode project, including
+Dec 03 02:51:46 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Dec 03 02:51:46 *	- global notices.
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- Representing an on-topic project? Don't forget to register, more information
+Dec 03 02:51:46 *	- can be found on the https://freenode.net website under "Group Registration".
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- freenode organises an annual conference, and we would like to extend our
+Dec 03 02:51:46 *	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+Dec 03 02:51:46 *	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+Dec 03 02:51:46 *	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Dec 03 02:51:46 *	- network going for close to two decades.
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- Thank you to all of our attendees, sponsors, speakers, exhibitors, helpers,
+Dec 03 02:51:46 *	- and everyone else who made this year's freenode #live conference amazing.
+Dec 03 02:51:46 *	- https://freenode.net/news/live-2018
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	- Thank you for using freenode!
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	-  
+Dec 03 02:51:46 *	End of /MOTD command.
+Dec 03 02:51:46 *	manjaroi3_ sets mode +i on manjaroi3_
+Dec 03 02:51:46 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Dec 03 02:51:46 -freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Dec 03 02:51:46 *	Received a CTCP VERSION from freenode-connect
+Dec 03 02:51:52 *	#manjaro #manjaro-unregistered :Forwarding to another channel
+Dec 03 02:59:12 Sysinfo plugin unloaded
